@@ -1,0 +1,28 @@
+name: ifsu.org
+favicon: null
+layout_spectrum: 0.27366027841344476
+typography_spectrum: 0.6467881065327674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5829347637481987
+  lightness: 0.08798167109489441
+  saturation: 0.5820561773143709
+  rhythmicContrast: 0.7603828764986247
+purpose: []

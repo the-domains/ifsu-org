@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Una descripción detallada de la Fundación IFSU en España y de sus sociedades de meditación y mindfulness en todo el mundo.
-datePublished: '2016-01-05T17:44:01.044Z'
-dateModified: '2016-01-05T17:18:00.863Z'
+datePublished: '2016-01-05T17:46:28.506Z'
+dateModified: '2016-01-05T17:46:15.367Z'
 title: Fundación IFSU
 author: []
 authors: []
